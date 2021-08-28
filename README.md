@@ -1,6 +1,6 @@
 👋 Hi, I’m Bharath Kumar c.
 I am an Electrical engineer with outstanding academic performance. Currently a student at University of Nottingham persuing specialization  in Msc Power Electronics and drives. Along with the knowledge of elctrical sciences 
-I have developed special intrest solving problems relating to electrical engineering using programming languages. Over the past two years I have came across many programming languages 
+I have developed special intrest solving problems relating to electrical engineering using programming languages. Over the past two years I have come across many programming languages 
 such as Java, C, C++, C#, Pyhton, Scala, Julia, R, Lisp, Spring. Worked with databases and tools like DB2, MySQL, Mongo, SQL, HDFS, HBase, S3, Matlab, Psim, Pspice. Adobe Experience Manager (6.0, 6.3, 6.4, 6.5.6), Adobe Frame
 Maker, Oxygen. Apache Hadoop, Apache Spark, TensorFlow, Scikit-learn, Keras, H2o.ai, Numpy,Pandas, Matplotlib, Scipy, Anaconda Platform.
 
