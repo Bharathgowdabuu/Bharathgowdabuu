@@ -23,5 +23,5 @@ Databases: DB2, MySQL, Mongo, SQL, HDFS, HBase, S3.
 Operating Systems: UNIX/ Linux, Windows, iOS, MAC. 
 
 All My Repositories are private.
-I have been working on memristors, personal asistance, powersim api, machine learning applications in solving power system and renewable energy related problems.
-intrested contact me @iamceo@fxzettahertz.com/ info@fxzettahertz.com
+I have been working on memristors, personal asistance, powersim api, machine learning applications in solving power system and renewable energy related problems, State of the art content repository management tool 
+With out of the box applications to handle customer relations management and compaigns.intrested contact me @iamceo@fxzettahertz.com/ info@fxzettahertz.com
