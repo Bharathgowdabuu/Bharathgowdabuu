@@ -12,3 +12,15 @@ JQuery, AJAX, JSTL, ExtJS, JSON and Angular JS. amd GIT for application developm
 using JSP and Sightly.I Have Worked on Multi Site Manager (MSM) to develop live copy from blueprint, such that the structure and content can then be used on Live Copy.I have Worked on design and implementation of modules on CQ 6.0 and AEM 6.3, 6.4 and 6.5.6.
 
 I Have a working experience on CQ5 Forms customization by developing the custom form fields and specifying the global validation resource type at the form level.I have Experience in web technologies including XML side scripting languages such as Javascript,JSP and web services development using RESTful implementations.I have a Good knowledge of database connectivity for databases like MongoDB.I have Actively involved in all the phases of Software Development Life Cycle (SDLC).I have a Experience of Agile and SCRUM methodologies.I Worked closely in deploying applications/Enhancements to Dev and QA environments.Duing the tenure I have been a good Team player with excellent communication skills, leadership qualities and writing skills and Good problem solving skills and extraordinary troubleshooting capabilities. 
+
+Technical skills:
+Programming Languages: C, Java, JavaScript, XML, REST, JSON, HTML, CSS, JSP, Octave, Python,
+Julia, Scala.
+
+Tools: Matlab, Psim, Pspice. Adobe Experience Manager (6.0, 6.3, 6.4, 6.5.6), Adobe Frame
+Maker, Oxygen. Apache Hadoop, Apache Spark, TensorFlow, Scikit-learn, Keras, H2o.ai, Numpy,
+Pandas, Matplotlib, Scipy, Anaconda Platform.
+
+Databases: DB2, MySQL, Mongo, SQL, HDFS, HBase, S3.
+
+Operating Systems: UNIX/ Linux, Windows, iOS, MAC. 
