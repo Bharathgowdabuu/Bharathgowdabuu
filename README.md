@@ -16,11 +16,12 @@ I Have a working experience on CQ5 Forms customization by developing the custom 
 Technical skills:
 Programming Languages: C, Java, JavaScript, XML, REST, JSON, HTML, CSS, JSP, Octave, Python,
 Julia, Scala.
-
 Tools: Matlab, Psim, Pspice. Adobe Experience Manager (6.0, 6.3, 6.4, 6.5.6), Adobe Frame
 Maker, Oxygen. Apache Hadoop, Apache Spark, TensorFlow, Scikit-learn, Keras, H2o.ai, Numpy,
 Pandas, Matplotlib, Scipy, Anaconda Platform.
-
 Databases: DB2, MySQL, Mongo, SQL, HDFS, HBase, S3.
-
 Operating Systems: UNIX/ Linux, Windows, iOS, MAC. 
+
+All My Repositories are private.
+I have been working on memristors, personal asistance, powersim api, machine learning applications in solving power system and renewable energy related problems.
+intrested contact me @iamceo@fxzettahertz.com/ info@fxzettahertz.com
